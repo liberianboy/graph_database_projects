@@ -1,0 +1,6 @@
+pyspark==3.5.1
+jupyterlab==4.2.5
+ipykernel==6.29.5
+neo4j==5.22.0
+pandas==2.2.2
+pyarrow==16.1.0

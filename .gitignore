@@ -1,0 +1,3 @@
+pyspark-graph-demo/neo4j_data/*
+pyspark-graph-demo/.venv/*
+pyspark-graph-demo/notes.txt
